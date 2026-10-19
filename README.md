@@ -56,13 +56,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadirculha&show_icons=true&count_private=true&hide_border=true&theme=transparent"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirculha&layout=compact&hide_border=true&theme=transparent"/>
-</p>
-
 ---
 
 <p align="center"><i>Most of my production work lives in private/org repositories — happy to walk through it on a call.</i></p>
